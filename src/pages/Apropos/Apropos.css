@@ -1,0 +1,13 @@
+.accordion-apropos{
+    width: 80vw;
+    margin: auto;
+    margin-top: 20px;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 12px;
+}
+.apropos{
+    height: 100vh;
+}

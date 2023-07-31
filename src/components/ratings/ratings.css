@@ -1,0 +1,19 @@
+.rating{
+    display: flex;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+
+    @media screen and (max-width: 675px) {
+        .rating{
+            display: flex;
+            justify-content: flex-start;
+            height: 100%;
+            width: 100%;
+        }
+        .etoiles{
+        
+            height: 20px;
+        }
+    }

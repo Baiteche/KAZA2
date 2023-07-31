@@ -1,0 +1,30 @@
+footer{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    
+    width: 100vw;
+    margin: auto;
+    height: 20vh;
+    margin-top: 10vh;
+    
+    
+    
+    background-color: black;
+   
+    
+ 
+}
+footer > img{
+    height: 50px;
+    width: 100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+h5{
+    margin-top: 20px;
+    margin: auto;
+    color: white;
+}

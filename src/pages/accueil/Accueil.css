@@ -1,0 +1,7 @@
+.Accueil{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 1240px;
+  height: auto;
+}
